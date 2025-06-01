@@ -1,0 +1,12 @@
+Django==4.2.21
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+django-filter==23.5
+drf-yasg==1.21.7
+python-magic==0.4.27
+whitenoise==6.6.0
+setuptools>=68.0.0
+# Pillow==10.2.0
+gunicorn>=21.2.0
+python-dotenv>=1.0.0
+pathspec==0.11.2 
